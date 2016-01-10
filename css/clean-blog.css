@@ -426,3 +426,6 @@ body {
 .widget .last-post .post-author {
   font-size: .7em;
 }
+.row.widgets + .row.widgets {
+  padding-top: 20px;
+}
