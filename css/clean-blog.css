@@ -143,6 +143,10 @@ hr.small {
   -o-background-size: cover;
   margin-bottom: 50px;
 }
+.intro-header.blog-post {
+  background-attachment: fixed;
+  height: 100vh;
+}
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
